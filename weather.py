@@ -1,3 +1,11 @@
+"""
+Created by Abhinav M Hari
+Email: abhinav03m@gmail.com
+PLEASE CHANGE THE KEY INTO YOUR ASSIGNED API KEY.
+YOU CAN FIND AND GET INSTRUCTIONS TO GENERATE YOUR API KEY FROM https://openweathermap.org/
+"""
+
+
 import requests
 import datetime
 
