@@ -1,0 +1,10 @@
+location: London, time: 2021-06-23 02:26:51.970027description: overcast clouds
+temp1: 13.08
+temp2: 286.23
+humidity: 67.00
+location: greenwich, time: 2021-06-23 02:26:55.715391description: few clouds
+temp1: 12.86
+temp2: 286.01
+humidity: 71.00
+location: britan, time: 2021-06-23 02:26:59.152928
+message: city not found
